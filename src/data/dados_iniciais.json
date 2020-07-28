@@ -1,75 +1,71 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Esportes e Lifestyle",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Skate Final SIMPLE SESSION 2020",
+          "url": "https://youtu.be/sFUIFJDuU6o"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Bike Final SIMPLE SESSION 2020",
+          "url": "https://youtu.be/GK1xy7_jVVE"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "WSL Big Wave At Large: JAWS 2020",
+          "url": "https://youtu.be/KhZoTBuxHKY"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "ESCALANDO O EVEREST - Canal Off",
+          "url": "https://youtu.be/KlxAZw0yn4I"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Alma Viajante | Canal OFF",
+          "url": "https://youtu.be/-X_Qyn0sIFk"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "PRAIA DO ROSA NO CANAL OFF",
+          "url": "https://youtu.be/zK_SFq9VwSE"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Escalada da Cachoeira do Tabuleiro | Canal OFF",
+          "url": "https://youtu.be/hlgwaUpyGGA"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Surfe e Snowboard no Colorado! | Morando na Estrada | Canal OFF",
+          "url": "https://youtu.be/1qnlFLqw2a8"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Música",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "The Evolution Of West Coast Rap [1983 - 2019]",
+          "url": "https://youtu.be/dyUjYuw6lf4"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Filmage: The Story of Descendents/All - Trailer",
+          "url": "https://youtu.be/ZdHCsKvpY7Y"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Seu Jorge - Full Performance (Live on KEXP)",
+          "url": "https://youtu.be/TpQ5R3ftRGI"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "The Flatliners on Audiotree Live (Full Session)",
+          "url": "https://youtu.be/tD2c6aPNVkI"
         }
       ]
     },
@@ -104,20 +100,20 @@
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "A Clockwork Orange",
+          "url": "https://youtu.be/SPRzm8ibDQ8"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Coringa (2019)",
+          "url": "https://youtu.be/jfVTJm9NilA"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "1917 (2019)",
+          "url": "https://youtu.be/dglqGGyWbVo"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Jogo Perigoso (2017)",
+          "url": "https://youtu.be/j6hjWRtu6YE"
         }
       ]
     },
@@ -125,8 +121,8 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
@@ -155,8 +151,8 @@
       "titulo": "Aprendendo a aprender tecnologia",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
